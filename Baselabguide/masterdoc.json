@@ -1,0 +1,41 @@
+[
+    {
+      "Name": "LAB Onboarding",
+      "Language": "English",
+      "BaseURL": "https://github.com/Aryan-MP/Onboarding_master/blob/main/",
+      "Files": [
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/Aryan-MP/Onboarding_master/main/labguide1.md",
+          "Order": 1
+        },
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/Aryan-MP/Onboarding_master/main/labguide2.md",
+          "Order": 2
+        },
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/Aryan-MP/cloudlabs/main/onboarding/labguider3.md",
+            "Order": 3
+        },
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/Aryan-MP/Onboarding_master/main/labguide4.md",
+            "Order": 4
+        },
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/Aryan-MP/Onboarding_master/main/task4-lab5.md",
+            "Order": 5
+        },
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/Aryan-MP/Onboarding_master/main/task4-lab6.md",
+            "Order": 6
+        },
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/Aryan-MP/Onboarding_master/main/task4-lab7.md",
+            "Order": 7
+        },
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/Aryan-MP/Onboarding_master/main/task4-lab8.md",
+            "Order": 8
+        }
+      ]
+    }
+  ]
