@@ -2,38 +2,38 @@
     {
       "Name": "LAB Onboarding",
       "Language": "English",
-      "BaseURL": "https://github.com/Aryan-MP/Onboarding_master/blob/main/",
+      "BaseURL": "https://github.com/SachithaBS/Repo_internship/blob/main/",
       "Files": [
         {
-          "RawFilePath": "https://raw.githubusercontent.com/Aryan-MP/Onboarding_master/main/labguide1.md",
+          "RawFilePath": "https://raw.githubusercontent.com/SachithaBS/Repo_internship/main/Baselabguide/Firstpage.md",
           "Order": 1
         },
         {
-          "RawFilePath": "https://raw.githubusercontent.com/Aryan-MP/Onboarding_master/main/labguide2.md",
+          "RawFilePath": "https://raw.githubusercontent.com/SachithaBS/Repo_internship/main/Baselabguide/secondpage.md",
           "Order": 2
         },
         {
-          "RawFilePath": "https://raw.githubusercontent.com/Aryan-MP/cloudlabs/main/onboarding/labguider3.md",
+          "RawFilePath": "https://raw.githubusercontent.com/SachithaBS/Repo_internship/main/Baselabguide/thirdpage.md",
             "Order": 3
         },
         {
-          "RawFilePath": "https://raw.githubusercontent.com/Aryan-MP/Onboarding_master/main/labguide4.md",
+          "RawFilePath": "https://raw.githubusercontent.com/SachithaBS/Repo_internship/main/Baselabguide/fourthpage.md",
             "Order": 4
         },
         {
-          "RawFilePath": "https://raw.githubusercontent.com/Aryan-MP/Onboarding_master/main/task4-lab5.md",
+          "RawFilePath": "https://raw.githubusercontent.com/SachithaBS/Repo_internship/main/Baselabguide/fifthpage.md",
             "Order": 5
         },
         {
-          "RawFilePath": "https://raw.githubusercontent.com/Aryan-MP/Onboarding_master/main/task4-lab6.md",
+          "RawFilePath": "https://raw.githubusercontent.com/SachithaBS/Repo_internship/main/Baselabguide/sixthpage.md",
             "Order": 6
         },
         {
-          "RawFilePath": "https://raw.githubusercontent.com/Aryan-MP/Onboarding_master/main/task4-lab7.md",
+          "RawFilePath": "https://raw.githubusercontent.com/SachithaBS/Repo_internship/main/Baselabguide/seventhpage.md",
             "Order": 7
         },
         {
-          "RawFilePath": "https://raw.githubusercontent.com/Aryan-MP/Onboarding_master/main/task4-lab8.md",
+          "RawFilePath": "https://raw.githubusercontent.com/SachithaBS/Repo_internship/main/Baselabguide/eigthpage.md",
             "Order": 8
         }
       ]
